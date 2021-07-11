@@ -6,12 +6,14 @@
 10.07.2021 - 11.07.2021 было проведено тестирование чек-листа для приложения Credit Card Number Validator.
 
 
-На тестирование затрачено: 4 часа
+На тестирование (включая подготовку и описание) затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+
+* https://github.com/Avtukhova/number1/issues/1;
+* https://github.com/Avtukhova/number1/issues/2;
+* https://github.com/Avtukhova/number1/issues/3;
+* https://github.com/Avtukhova/number1/issues/4
 
 ## Описание процесса тестирования
 
