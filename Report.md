@@ -24,7 +24,7 @@
 В процессе тестирования использовались следующие артефакты*:
 * [Подтверждение валидности действительных карт (кейсы А1-А14)](https://docs.google.com/spreadsheets/d/1NijXGhQb4M6VwtWZYAYUPOWVGUHQz6RwjFXJuVYwSPI/edit?usp=sharing)
 * [Проверка граничных значений (кейс А15)](https://docs.google.com/spreadsheets/d/1NijXGhQb4M6VwtWZYAYUPOWVGUHQz6RwjFXJuVYwSPI/edit?usp=sharing)
-* [Проверка особых условий (кейсы А17, А18)](https://docs.google.com/spreadsheets/d/1NijXGhQb4M6VwtWZYAYUPOWVGUHQz6RwjFXJuVYwSPI/edit?usp=sharing)
+* [Проверка особых условий (кейсы А16, А17)](https://docs.google.com/spreadsheets/d/1NijXGhQb4M6VwtWZYAYUPOWVGUHQz6RwjFXJuVYwSPI/edit?usp=sharing)
 
 
 В качестве тестовых данных использовались данные freeformatter.com:
